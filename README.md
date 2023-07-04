@@ -1,6 +1,6 @@
 ### Hey 👋  Soy Max Llistó y soy programador informático
 
-- 🔭 Actualmente estoy desarrollando aplicaciones web y móvil
+- 🔭 Desarrollo aplicaciones web y móvil
 
 
 
